@@ -10,7 +10,7 @@
 
 # What is the National Airspace System?
 
-## The United States National Air Space System is the combination of aircraft, airports, sensors, navigation facilities, people, and processes that enable people and cargo to move across the country.
+### The United States National Air Space System is the combination of aircraft, airports, sensors, navigation facilities, people, and processes that enable people and cargo to move across the country.
 
 ---
 
@@ -39,7 +39,7 @@
 
 # In Short: No
 
-## Slightly Longer: It's a highly resiliant system, with characteristics dating back to the advent of flight, that would be difficult to disrupt locally, but is built to retain and recover from disruptions quickly as a core function.
+## _Slightly Longer:_ It's a highly resiliant system, with characteristics dating back to the advent of flight, that would be difficult to disrupt locally, but is built to retain and recover from disruptions quickly as a core function.
 
 --- 
 
@@ -111,3 +111,8 @@
 # [fit] In Summary
 
 ---
+
+# The National Airspace System is Resilient
+
+- It is built to withstand and recover from disruptions, and has a long history of doing so.
+- It can be improved by taking a systematic approach and now is the ideal time with the release of NextGen.
